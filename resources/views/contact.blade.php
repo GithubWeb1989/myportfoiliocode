@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Beckham - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Diana Melay</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -42,7 +42,7 @@
         <div class="colorlib-table-cell js-fullheight">
           <div class="row no-gutters">
             <div class="col-md-12 text-center">
-              <h1 class="mb-4"><a href="{{URL::asset('/')}}" class="logo">Beckham Muff</a></h1>
+              <h1 class="mb-4"><a href="{{URL::asset('/')}}" class="logo">Diana Melay</a></h1>
               <ul>
                 <li><a href="{{URL::asset('/')}}"><span><small>01</small>Home</span></a></li>
                 <li><a href="{{URL::asset('about')}}"><span><small>02</small>Resume</span></a></li>
@@ -63,7 +63,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="colorlib-navbar-brand">
-                <a class="colorlib-logo" href="{{URL::asset('/')}}"><span class="logo-img" style="background-image: url(images/person_1.jpg);"></span>Beckham Muff</a>
+                <a class="colorlib-logo" href="{{URL::asset('/')}}"><span class="logo-img" style="background-image: url(images/person_1.jpg);"></span>Diana Melay</a>
               </div>
               <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
             </div>

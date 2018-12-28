@@ -14,6 +14,7 @@
 // Route::get('/', function () {
 //     return view('index');
 // });
+
 Route::get('/' ,'GetDataController@index');
 
 Route::get('/about' ,function(){

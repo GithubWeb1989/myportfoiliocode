@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Beckham - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Diana Melay</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -42,7 +42,7 @@
         <div class="colorlib-table-cell js-fullheight">
           <div class="row no-gutters">
             <div class="col-md-12 text-center">
-              <h1 class="mb-4"><a href="{{URL::asset('/')}}" class="logo">Beckham Muff</a></h1>
+              <h1 class="mb-4"><a href="{{URL::asset('/')}}" class="logo">Diana Melay</a></h1>
               <ul>
                 <li><a href="{{URL::asset('/')}}"><span><small>01</small>Home</span></a></li>
                 <li class="active"><a href="{{URL::asset('about')}}"><span><small>02</small>Resume</span></a></li>
@@ -63,7 +63,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="colorlib-navbar-brand">
-                <a class="colorlib-logo" href="{{URL::asset('/')}}"><span class="logo-img" style="background-image: url(images/person_1.jpg);"></span>Beckham Muff</a>
+                <a class="colorlib-logo" href="{{URL::asset('/')}}"><span class="logo-img" style="background-image: url(images/person_1.jpg);"></span>Diana Melay</a>
               </div>
               <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
             </div>
@@ -80,7 +80,7 @@
               <div class="about-desc">
                 <h1 class="bold-text">About</h1>
                 <div class="p-5">
-                  <h2 class="mb-5">Hi! I'm Beckham Muff</h2>
+                  <h2 class="mb-5">Hi! I'm Diana Melay</h2>
                   <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
                   <!-- <p><a href="#">Checkout my resume</a></p> -->
                   <ul class="ftco-footer-social list-unstyled mt-4">
@@ -106,12 +106,12 @@
 	          		<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 	          		<div class="row my-5">
 		          		<div class="col-md-6">
-		          			<p><strong>Name:</strong> <span>Beckham Muff</span></p>
+		          			<p><strong>Name:</strong> <span>Diana Melay</span></p>
 		          			<p><strong>Address:</strong> <span>88 West 21th Street, Suite 721 New York NY 10016</span></p>
 		          			<p><strong>Phone:</strong> <span>(123)-456-789</span></p>
 		          		</div>
 		          		<div class="col-md-6">
-		          			<p><strong>Name:</strong> <span>Beckham Muff</span></p>
+		          			<p><strong>Name:</strong> <span>Diana Melay</span></p>
 		          			<p><strong>Address:</strong> <span>88 West 21th Street, Suite 721 New York NY 10016</span></p>
 		          			<p><strong>Phone:</strong> <span>(123)-456-789</span></p>
 		          		</div>

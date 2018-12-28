@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Web Development</title>
+    <title>Diana Melay</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -42,7 +42,7 @@
         <div class="colorlib-table-cell js-fullheight">
           <div class="row no-gutters">
             <div class="col-md-12 text-center">
-              <h1 class="mb-4"><a href="{{URL::asset('/')}}" class="logo">Beckham Muff</a></h1>
+              <h1 class="mb-4"><a href="{{URL::asset('/')}}" class="logo">Diana Melay</a></h1>
               <ul>
                 <li class="active"><a href="{{URL::asset('/')}}"><span><small>01</small>Home</span></a></li>
                 <li><a href="{{URL::asset('about')}}"><span><small>02</small>Resume</span></a></li>
@@ -120,7 +120,7 @@
                 <h1 class="bold-text">About</h1>
                 <div class="p-5">
                   <h2 class="mb-5">Hi! I'm Diana Melay</h2>
-                  <p>sdfsdafasdfasdfdasfasddasfasdfasdfadsfasdfasdf Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+                  <p>Hi, Thank You For Visiting My Profile! I Am A Senior Web Front And Backend Developer.I Have 7+ Years Of Experience In Web Development, And During This Time I Have Developed A Lot Of Both Server And Client Side Applications.My Expertise Is Focused On HTML, CSS, JavaScript, JQuery, PHP, Ajax, BootStrap, Angular JS, Laravel Framework, WordPress, React.Js, And Node.Js, Express.Js, CodeIgniter And Etc. I Have Good Experiences For Large Application Development In Developers' Team And Using Softwares Like Github, Bitbucket, Scrum, Jira, And So On. I Enjoy Working Either Individually Or With A Collaborative Team To Produce A High-Quality Solution That Strengthens A Company's Brand. Whether I Work On A Temporary Company Contract Or On A Long-Term Project, My Goal Doesn't Change: To Produce A High-Quality Product. I Hope You'll Consider My Experience As A Positive Attribute Of My Candidacy, And I’m Looking Forward To Our Collaboration.</p>
                   <!-- <p><a href="">Checkout my resume</a></p> -->
                   <ul class="ftco-footer-social list-unstyled mt-4">
                   <li class="ftco-animate"><a href="https://twitter.com"><span class="icon-twitter"></span></a></li>
