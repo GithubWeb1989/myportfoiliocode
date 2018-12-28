@@ -40,8 +40,8 @@ return [
         ],
 
         'single' => [
-            'driver' => 'single',
-            'level' => 'errorlog',
+            'driver' => 'errorlog',
+            'level' => 'debug',
         ],
 
         'daily' => [
