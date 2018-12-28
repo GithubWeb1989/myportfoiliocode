@@ -80,6 +80,7 @@ class CreateMyOwnSitesTable extends Migration
             $table->string('country');
             $table->string('city');
             $table->string('ipaddress');
+            $table->string('visitdate');
         });
     }
 
