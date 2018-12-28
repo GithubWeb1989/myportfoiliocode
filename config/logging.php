@@ -41,7 +41,7 @@ return [
 
         'single' => [
             'driver' => 'single',
-            'level' => 'debug',
+            'level' => 'errorlog',
         ],
 
         'daily' => [
