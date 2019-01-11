@@ -30,10 +30,10 @@ class GetDataController extends Controller
         $countryName = isset($locationinfo->countryName) ? $locationinfo->countryName : "";
         $cityName = isset($locationinfo->cityName) ? $locationinfo->cityName : "";
         $r_date = array('ipaddress'=>$ip, 'country'=>$countryName, 'city'=>$cityName, 'visitdate'=>date("Y-m-d h:i:sa"));
-        // $r_date = array('ipaddress'=>$ip, 'country'=>$countryName, 'city'=>$cityName);
+    
         DB::table('userlocationinfo')->insert($r_date);
         $visitnum = count(DB::table('userlocationinfo')->get()->toArray());
-        
+
         return view('index' ,array('visitnum'=>$visitnum));
     }
 

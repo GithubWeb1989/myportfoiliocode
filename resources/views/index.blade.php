@@ -102,6 +102,7 @@
             <div class="row slider-text align-items-center text-center justify-content-center" data-scrollax-parent="true">
               <div class="col-md-12 ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
                 <p><h1>You have {{$visitnum}} visitations</h1></p>
+                <!-- <p><h1>{{ $user->ipaddress }}</h1></p> -->
               </div>
             </div>
           </div>

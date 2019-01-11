@@ -15,6 +15,8 @@
 //     return view('index');
 // });
 
+// Route::get('/' ,'testController@index'); //retried data from MySql Test
+
 Route::get('/' ,'GetDataController@index');
 
 Route::get('/about' ,function(){
